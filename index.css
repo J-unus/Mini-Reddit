@@ -1,0 +1,72 @@
+html {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    background-color: #EAE3E3;
+}
+
+button {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    width: 109px;
+    text-decoration: none;
+    outline:none;
+    border: 1px solid #D3C8C8;
+    margin-left: 10px;
+
+}
+body {
+    margin: 50px;
+}
+
+#news {
+    border: 1px #F3E2A9 solid;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    width: 800px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+#newsBottom {
+    padding: 2px;
+    margin-bottom: 5px;
+    margin-right: 200px;
+    float: right;
+}
+
+#comment {
+    border: 1px black solid;
+    border-radius: 5px;
+    padding: 1px;
+    margin: 5px;
+}
+
+.error {
+    color: red;
+}
+
+#registerButton {
+    margin-left: 200px;
+}
+
+.plusminus {
+    margin-right: 7px;
+    text-decoration: none;
+    outline:none;
+    font-size: 40px;
+    float: left;
+    margin-top: -10px;
+}
+
+.indexImage {
+    width: 70px;
+    float: left;
+    padding: 5px;
+}
+
+.commentsImage {
+    max-width: 800px;
+}
